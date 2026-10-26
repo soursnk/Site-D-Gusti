@@ -1,4 +1,4 @@
-#D'Gusti Café e Lanches - Redesign do Site
+# D'Gusti Café e Lanches - Redesign do Site
 
 Redesign do site da **D'Gusti Café e Lanches**, estabelecimento localizado em Vitória da Conquista, Bahia. O projeto tem como objetivo desenvolver uma experiência digital própria para a marca, com um cardápio organizado, navegação intuitiva e um fluxo simplificado de pedidos.
 
