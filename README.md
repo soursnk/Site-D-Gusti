@@ -21,12 +21,13 @@ A proposta visual combina elementos artesanais e acolhedores com uma interface m
 
 ### Paleta de cores
 
- Cor - Código - Aplicação 
- Verde principal - `#267447` - Botões e destaques 
- Verde suave - `#EAF2E7` - Fundos secundários 
- Creme - `#FFF8ED` - Fundo principal 
- Terracota - `#C8753D` - Detalhes e elementos secundários 
- Marrom-escuro - `#302D28` - Textos, títulos e ícones 
+| Cor | Código | Aplicação |
+|---|---|---|
+| Verde principal | `#267447` | Botões e destaques |
+| Verde suave | `#EAF2E7` | Fundos secundários |
+| Creme | `#FFF8ED` | Fundo principal |
+| Terracota | `#C8753D` | Detalhes e elementos secundários |
+| Marrom-escuro | `#302D28` | Textos, títulos e ícones |
 
 ### Tipografia
 
